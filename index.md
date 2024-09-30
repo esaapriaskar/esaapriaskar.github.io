@@ -1,12 +1,12 @@
 # Esa Apriaskar
 **[Home](/)** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-Esa Apriaskar is a lecturer in the Faculty of Engineering at Universitas Negeri Semarang. Currently, Esa is a PhD student in the School of Electrical and Electronic Engineering at the University of Sheffield, beginning in October 2023. He joined the [NLP Research group](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) under the supervision of [Mark Stevenson](https://www.sheffield.ac.uk/dcs/people/academic/mark-stevenson). Arif obtained a Bachelor's in Computer Science in 2006 and a Master's in Informatics in 2013 from Universitas Gadjah Mada and Universitas Amikom, respectively.
+Esa Apriaskar is a lecturer in the Faculty of Engineering at Universitas Negeri Semarang. Currently, Esa is a PhD student in the School of Electrical and Electronic Engineering at the University of Sheffield, beginning in October 2023. His PhD research focuses on machine learning methods for vehicular traffic systems under the supervision of [Professor Lyudmila Mihaylova](https://www.sheffield.ac.uk/eee/people/academic-staff/lyudmila-mihaylova). Esa obtained a Bachelor's degree in Electrical Engineering in 2013 and a Master's in Electrical Engineering in 2017 from Universitas Diponegoro and Institut Teknologi Bandung, respectively.
 
-### ☎️  Detail Contact
-- Department of Computer Science, Regent Court (DCS)
-- 211 Portobello, Sheffield S1 4DP
-- Email: alaksito1@sheffield.ac.uk
+### ☎️  Detailed Contact
+- School of Electrical and Electronic Engineering, Sir Henry Stephenson Building (DCS)
+- Mappin Street, Sheffield S1 4DT
+- Email: eapriaskar1@sheffield.ac.uk
 
 #### Home University
 - Faculty of Computer Science, Universitas Amikom Yogyakarta
