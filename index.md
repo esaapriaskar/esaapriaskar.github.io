@@ -1,7 +1,7 @@
 # Esa Apriaskar
 **[Home](/index)** | **[Teaching](/teach)** | **[Research](/research)** | **[Publications](/publications)**
 
-Esa Apriaskar is a lecturer in the Faculty of Engineering at Universitas Negeri Semarang. Currently, Esa is a PhD student in the School of Electrical and Electronic Engineering at the University of Sheffield, beginning in October 2023. His PhD research focuses on machine learning methods for vehicular traffic systems under the supervision of [Professor Lyudmila Mihaylova](https://www.sheffield.ac.uk/eee/people/academic-staff/lyudmila-mihaylova). Esa obtained a Bachelor's degree in Electrical Engineering in 2013 and a Master's in the same field in 2017 from Universitas Diponegoro and Institut Teknologi Bandung, respectively....
+Esa Apriaskar is a lecturer in the Faculty of Engineering at Universitas Negeri Semarang. Currently, Esa is a PhD student in the School of Electrical and Electronic Engineering at the University of Sheffield, beginning in October 2023. His PhD research focuses on machine learning methods for vehicular traffic systems under the supervision of [Professor Lyudmila Mihaylova](https://www.sheffield.ac.uk/eee/people/academic-staff/lyudmila-mihaylova). Esa obtained a Bachelor's degree in Electrical Engineering in 2013 and a Master's in the same field in 2017 from Universitas Diponegoro and Institut Teknologi Bandung, respectively.
 
 ### ☎️  Detailed Contact
 - School of Electrical and Electronic Engineering, Sir Henry Stephenson Building
